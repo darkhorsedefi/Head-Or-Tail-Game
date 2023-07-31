@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The Head or Tail Betting Game is a decentralized application (DApp) built on the `Sepolia testnet`, a blockchain platform, that allows users to place bets on the outcome of a coin toss. The game utilizes a smart contract to ensure fairness, transparency, and offers different odds and bonuses for the players.
+The Head or Tail Betting Game is a decentralized application (DApp) built on the `Sepolia testnet`, a blockchain platform, that allows users to place bets on the outcome of a coin toss. The game utilizes a smart contract to ensure fairness and transparency.
+
+![preview](head-or-tail.png)
 
 ## How it Works
 
